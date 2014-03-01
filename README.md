@@ -11,6 +11,26 @@ What is StormCoin?
 
 StormCoin is a lite version of Bitcoin using scrypt as a proof-of-work algorithm.
 
+Coin type Litecoin (Scrypt)
+
+Halving 2500000 blocks
+
+Initial coins per block 5 coins
+
+Target spacing 2 min
+
+Target timespan 24 h
+
+Coinbase maturity 10 blocks
+
+Max coinbase 25000000 coins
+
+P2P port 11090
+
+RPC port 21090
+
+No Pre-Mine - Starts at Block Zero 
+
 
 For more information, as well as an immediately useable, binary version of
 the StormCoin client sofware, see http://www.StormCoin.org.
